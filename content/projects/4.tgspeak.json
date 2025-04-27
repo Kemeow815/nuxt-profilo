@@ -1,0 +1,8 @@
+{
+  "name": "TG说说",
+  "url": "https://github.com/Kemeow815/BroadcastChannel",
+  "description": "基于telegram频道的说说页面。",
+  "thumbnail": "/projects/tgspeak.png",
+  "status": "Active",
+  "opensource": true
+}

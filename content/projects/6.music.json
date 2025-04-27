@@ -1,0 +1,8 @@
+{
+  "name": "KeMiao Music",
+  "url": "https://github.com/Kemeow815/HeoMusic",
+  "description": "基于HeoMusic的音乐播放器。",
+  "thumbnail": "/projects/music.png",
+  "status": "Active",
+  "opensource": true
+}

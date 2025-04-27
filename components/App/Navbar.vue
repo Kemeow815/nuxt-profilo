@@ -50,7 +50,7 @@ const items = [
   },
   {
     name: "Blog",
-    path: "https://blog.krisyan.dev/",
+    path: "https://blog.kemiao.xyz/",
     icon: "solar:document-add-outline",
   },
   //{ name: "Lab", path: "/lab", icon: "heroicons:beaker" },
