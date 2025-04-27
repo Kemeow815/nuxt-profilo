@@ -26,27 +26,27 @@
 const links = [
   {
     name: "Twitter",
-    url: "https://twitter.com/ImKrisYan",
+    url: "https://twitter.com/kemiaosw",
     icon: "mdi:twitter",
   },
   {
     name: "GitHub",
-    url: "https://github.com/YanDao0313",
+    url: "https://github.com/Kemeow815",
     icon: "mdi:github",
   },
   {
-    name: "YouTube",
-    url: "https://www.youtube.com/channel/UCd6QCusZZ8urv2Owol_KEzA",
-    icon: "mdi:youtube",
+    name: "Mail",
+    url: "mailto:kemiaofx@163.com",
+    icon: "mdi:mail",
   },
   {
     name: "BiliBili",
-    url: "https://space.bilibili.com/1639079419",
+    url: "https://space.bilibili.com/3546643173477234",
     icon: "mdi:television-classic",
   },
   {
     name: "Telegram",
-    url: "https://t.me/krisyan",
+    url: "https://t.me/KemiaoJun",
     icon: "mdi:telegram",
   },
 ];
