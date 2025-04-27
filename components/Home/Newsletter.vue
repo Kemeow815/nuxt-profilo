@@ -12,7 +12,7 @@
     </div>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
       Get notified when I publish something new, and unsubscribe at any time.<br />
-      You can subscribe to my newsletter at <a href="https://blog.krisyan.dev/" target="_blank" class="underline">my blog</a>.
+      You can subscribe to my newsletter at <a href="https://blog.kemiao.xyz/" target="_blank" class="underline">my blog</a>.
     </p>
     <!--<div class="flex items-center gap-3 mt-6">
       <UInput
