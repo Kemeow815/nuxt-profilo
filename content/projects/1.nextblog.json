@@ -1,7 +1,7 @@
 {
-  "name": "Next Blog",
-  "url": "https://blog.krisyan.dev/",
-  "description": "My personal blog, power by Next.js, Sanity, etc.",
+  "name": "KeMiao Blog",
+  "url": "https://blog.kemiao.xyz/",
+  "description": "My personal blog, power by astro.",
   "thumbnail": "/avatar-bw.png",
   "status": "Active",
   "opensource": true

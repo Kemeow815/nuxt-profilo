@@ -60,9 +60,9 @@ const items = [
     icon: "solar:backpack-outline",
   },*/
   {
-    name: "Bookmarks",
-    path: "/bookmarks",
-    icon: "solar:bookmark-linear",
+    name: "Friends",
+    path: "/friends",
+    icon: "solar:link-round-angle-bold",
   },
 ];
 </script>

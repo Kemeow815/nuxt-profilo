@@ -1,6 +1,6 @@
 <template>
   <main class="min-h-screen">
-    <AppHeader class="mb-8" title="Bookmarks" :description="description" />
+    <AppHeader class="mb-8" title="Friends" :description="description" />
     <ul class="space-y-2">
       <li v-for="bookmark in bookmarks" :key="bookmark.id">
         <a
@@ -28,17 +28,17 @@
 
 <script setup>
 const description =
-  "Awesome things I've found on the internet. This page is still under construction.";
+  "Some Friends I 've met.";
 useSeoMeta({
-  title: "Bookmarks | Kris Yan",
+  title: "Friends | Ke Miao",
   description,
 });
 
 const bookmarks = [
   {
     id: 1,
-    label: "洛谷 | 计算机科学教育新生态",
-    url: "https://www.luogu.com.cn",
+    label: "Wallleap",
+    url: "https:////myblog.wallleap.cn",
   },
 ];
 
